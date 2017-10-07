@@ -1,7 +1,7 @@
 # Database 
 <dl>
   <dt> CREATE TABLE `calon_siswa` (</dt>
-  <dd>	`id` INT(11) NOT NULL AUTO_INCREMENT,
+  <dd>	`id` INT(11) NOT NULL AUTO_INCREMENT,<br>
   	`nama` VARCHAR(64) NOT NULL,
   	`alamat` VARCHAR(255) NOT NULL,
   	`jenis_kelamin` VARCHAR(16) NOT NULL,
